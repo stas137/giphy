@@ -9,13 +9,13 @@
   "start_url": ".",
   "screenshots": [
     {
-      "src": "/images/launch_narrow.png",
+      "src": "images/launch_narrow.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "/images/launch_wide.png",
+      "src": "images/launch_wide.png",
       "type": "image/jpg",
       "sizes": "720x540",
       "form_factor": "wide"
